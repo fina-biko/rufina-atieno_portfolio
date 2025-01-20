@@ -19,7 +19,7 @@ const App = () => {
           <section className=" py-4 bg-gray-900 rounded-lg m-2">
             <div className="flex w-full md:w-1/3">
               <img
-                  src="/linkedin_photo.jpeg"
+                  src="public/linkedin_photo.jpeg"
                   alt="Rufina Atieno"
                   className="w-full h-auto rounded-full shadow-lg border-4 border-gray-600"
               />

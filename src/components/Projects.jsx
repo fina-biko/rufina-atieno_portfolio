@@ -15,7 +15,7 @@ const Projects = () => {
           <div
               className="bg-gray-900 text-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 flex flex-col items-center">
             <img
-                src="/e_Citizen_krc.png"
+                src="public/e_Citizen_krc.png"
                 alt="E-Citizen Project"
                 className="w-full h-32 rounded-lg shadow-md mb-4 object-cover"
             />
