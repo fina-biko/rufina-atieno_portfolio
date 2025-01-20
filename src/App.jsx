@@ -29,12 +29,21 @@ const App = () => {
 
 
           {/* skills and competencies section Section */}
-          <section id="skills" className="m-1">
-            <Skills/>s
+          <section className=" flex flex-row">
+            <section id="skills" className="m-1">
+              <Skills/>
+            </section>
+
+            <section id="skills" className="m-1">
+              <Skills/>
+            </section>
+
+
           </section>
 
+
           {/* Languagest*/}
-          <section  className=" bg-gray-900 rounded-lg">
+          <section className=" bg-gray-900 rounded-lg">
 
               <Languages/>
 
