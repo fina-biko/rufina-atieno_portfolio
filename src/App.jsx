@@ -27,6 +27,12 @@ const App = () => {
             <p className="text-gray-400 mb-6">Data Analyst| Data scientist| ML engineer| AI engineer .</p>
           </section>
 
+
+          {/* skills and competencies section Section */}
+          <section id="skills" className="m-1">
+            <Skills/>s
+          </section>
+
           {/* Languagest*/}
           <section  className=" bg-gray-900 rounded-lg">
 
@@ -35,10 +41,7 @@ const App = () => {
           </section>
 
 
-          {/* skills and competencies section Section */}
-          <section id="skills" className="m-1">
-            <Skills/>s
-          </section>
+
 
 
         </section>
